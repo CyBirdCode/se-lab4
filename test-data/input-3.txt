@@ -1,0 +1,6 @@
+# Check whether the same store can be used twice if the other is empty
+GT4500,3,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
