@@ -1,0 +1,5 @@
+# Check whether a ship can store the same amount of torpedos as the summary of the two store sizes
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
