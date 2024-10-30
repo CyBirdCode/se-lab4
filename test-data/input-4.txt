@@ -1,0 +1,3 @@
+# Check if all torpedoes can be fired with two empty storages
+GT4500,0,0,0,0
+TORPEDO,ALL
